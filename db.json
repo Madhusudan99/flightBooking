@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Madhusudan",
+      "lastName": "Jha",
+      "username": "madhusudanjha",
+      "email": "madhusudan@mail.com",
+      "countryCode": "India (+91)",
+      "phone": "8209759721",
+      "addressLine1": "286/450",
+      "addressLine2": "Sagwadi Kaliyabid",
+      "cityDistrict": "Bhavnagar",
+      "stateProvince": "Gujarat",
+      "postalcode": "364-002",
+      "country": "India",
+      "termsAndCondition": "true"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "johndoe",
+      "email": "johndoe@mail.com",
+      "countryCode": "India (+91)",
+      "phone": "8209759721",
+      "addressLine1": "Kattie Turnpike",
+      "addressLine2": "Suite 198",
+      "cityDistrict": "Lebsackbury",
+      "stateProvince": "Maharastra",
+      "postalcode": "31428-2261",
+      "country": "India",
+      "termsAndCondition": true,
+      "id": "BhEQ59i"
+    }
+  ]
+}
